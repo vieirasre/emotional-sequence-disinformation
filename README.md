@@ -60,7 +60,7 @@ All code is designed to ensure reproducibility and traceability of every step in
 | df_all_emoticon_seq_list_filtrado1_com_virgula | Filtered emotion sequences prepared for training. |
 | dados_emocoes_divididos.npz | Encoded and padded sequences used as input for deep learning models. |
 
-> Note: Data files are not included due to licensing and size restrictions. The notebooks reproduce all processed outputs from the raw data when available.
+> Note: Only the first dataset will be available in the data/ folder. All subsequent datasets are automatically generated through the notebooks provided in the notebooks/ directory.
 
 ---
 
