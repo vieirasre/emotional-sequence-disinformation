@@ -11,6 +11,7 @@ This repository contains all the notebooks, functions, and dependencies used thr
 ```
 emotional-sequence-disinformation/
 │
+├── data/
 ├── notebooks/              # Jupyter notebooks for each stage of the pipeline
 ├── requirements.txt        # List of dependencies
 ├── LICENSE                 # Apache-2.0 License
